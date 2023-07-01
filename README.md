@@ -1,5 +1,3 @@
-There are 2 different scripts in this repository.  One that uses Reddit, and one that uses twitter.  Both scripts perform the same function.
-
 This script uses the Reddit API to check for financial breaking news from a reddit bot. New news is displayed for the user in a small pop up.
 
 You will need to add your REDDIT_CLIENT_ID, REDDIT_CLIENT_SECRET, and OPENAI_API_KEY in the .env file
