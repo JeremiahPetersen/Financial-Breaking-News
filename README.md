@@ -6,6 +6,4 @@ This is a work in progress and currently only displays the breaking news, and sa
 
 Eventually this project will also correctly identify which stock the headline is referring too, and run the stock+headline through a sentiment analysis using ChatGPT
 
-This project will be updated if Reddit decides to charge too much for their API use.
-
-The Twitter version checks 3 twitter accounts that the reddit bot was also checking.
+Note: This project may not be functional after reddit api changes
